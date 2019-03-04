@@ -1,0 +1,6 @@
+classes= 8
+train  = /home/coxj/darknet3/data/VOCaction/1train.txt
+valid  = /home/coxj/darknet3/data/VOCaction/1test.txt
+names = data/actionVOC.names
+backup = backup/actionVOCcorrect
+

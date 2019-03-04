@@ -1,0 +1,6 @@
+classes= 13
+train  = /home/coxj/darknet/data/StAction/train.txt
+valid  = /home/coxj/darknet/data/StAction/test.txt
+names = /home/coxj/darknet/data/action1.names
+backup = backup/action1/
+

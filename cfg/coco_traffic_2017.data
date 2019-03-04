@@ -1,0 +1,8 @@
+classes= 14
+train  = /home/coxj/darknet3/data/coco2017/filelist/train2017.txt
+#valid  = coco_testdev
+valid = /home/coxj/darknet3/data/coco2017/filelist/val2017.txt
+names = /home/coxj/darknet3/data/coco_traffic.names
+backup = /home/coxj/darknet3/backup/coco_traffic_2017
+eval=coco
+

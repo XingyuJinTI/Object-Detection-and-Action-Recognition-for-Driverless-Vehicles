@@ -11,6 +11,8 @@
 		actionVOC.weights - 8 pedestrian actions from re-built PASCAL VOC Dataset' - training by YOLOv3
 		actionVOC_544.weights - improve the resolution and generate the appropriate anchors using k means clustering
 		coco_traffic_2017.weights - 14 types of objects in the traffic scenario - collected from COCO Dataset
+
+Please send drop me an email (jinxingyu95@gmail.com) to get the weights.
 		
 ## 3. cfg file includes all the network architectures and the dataset path:
 		action1.cfg		action1.data
