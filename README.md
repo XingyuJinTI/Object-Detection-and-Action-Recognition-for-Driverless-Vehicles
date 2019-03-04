@@ -3,8 +3,8 @@
 ## Darknet is an open source neural network framework written in C and CUDA. It is fast, easy to install, and supports CPU and GPU computation.
 
 ## 1. According to the configuration of your computer, edit the Makefile and compile by the command: 
-------------------cd darknet
-------------------make
+	cd darknet
+	make
 
 ## 2. backup file includes all the trained weights:
 		action1.weights - 13 pedestrian actions from Stanford Action Dataset - training by YOLOv2
