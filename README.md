@@ -1,8 +1,5 @@
 # Object-Detection-and-Action-Recognition-for-Driverless-Vehicles
 
-## Object Detection on traffic scenario and Action Recognition (for driverless vehicles)
-
-
 ## Darknet is an open source neural network framework written in C and CUDA. It is fast, easy to install, and supports CPU and GPU computation.
 
 ## 1. According to the configuration of your computer, edit the Makefile and compile by the command: 
