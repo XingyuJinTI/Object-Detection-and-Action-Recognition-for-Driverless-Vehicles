@@ -11,6 +11,8 @@ Behaviour Recognition [13 classes]:
 - Regular actions: running, walking, jumping, waving hands
 - Dangerous actions: riding a bike, riding a horse, texting message, phoning, pushing a cart, holding an umbrella, fixing a bike, fixing a car, walking the dog
 
+Examples, [here](https://github.com/Xingyu-Jin/Object-Detection-and-Action-Recognition-for-Driverless-Vehicles#visualisation)
+
 The model is built on Yolo v3 but any newer version can be easily used.
 
 ## Get Ready
@@ -20,6 +22,7 @@ Darknet is an open source neural network framework written in C and CUDA. It is 
 ### 1. According to the configuration of your computer, edit the Makefile and compile by the command: 
 	cd darknet
 	make
+For more information regarding darknet, see the [Darknet project website](http://pjreddie.com/darknet).
 
 ### 2. backup file includes all the trained weights:
 	action1.weights - 13 pedestrian actions from Stanford Action Dataset - training by YOLOv2
@@ -84,7 +87,7 @@ by YOLOv2:
 
 <img src="src/actRec2.png" width="600">
 
+## Contact
 
+Xingyu Jin - jinxingyu95@gmail.com
 
-
-## For more information see the [Darknet project website](http://pjreddie.com/darknet).
